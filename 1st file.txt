@@ -1,7 +1,4 @@
 main
 git hub
 system
-github
-github
-priyanka-test-demo
 
