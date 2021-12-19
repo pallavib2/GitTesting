@@ -1,7 +1,3 @@
 main
-<<<<<<< Updated upstream
-from git hub site
-from system
-=======
-from system
->>>>>>> Stashed changes
+updated from github
+updated from github
